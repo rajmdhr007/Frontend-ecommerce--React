@@ -1,0 +1,13 @@
+.carousel img{
+    height:750px
+}
+.card img{
+    transition: 2s;
+}
+.card{
+    overflow: hidden;
+ 
+}
+.card img:hover{
+    transform: scale(1.25);
+}
